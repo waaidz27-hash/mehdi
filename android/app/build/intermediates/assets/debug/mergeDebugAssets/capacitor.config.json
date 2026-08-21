@@ -1,0 +1,11 @@
+{
+	"appId": "com.akademia.app",
+	"appName": "أكاديمية المعرفة",
+	"webDir": "dist",
+	"android": {
+		"backgroundColor": "#0a0e1a"
+	},
+	"server": {
+		"androidScheme": "https"
+	}
+}

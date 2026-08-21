@@ -1,0 +1,26 @@
+{
+  "name": "أكاديمية المعرفة",
+  "short_name": "أكاديمية",
+  "description": "منصة تعليمية شاملة باللغة العربية — التشريح والاقتصاد والتسويق",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0e1a",
+  "theme_color": "#14b8a6",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
